@@ -9,7 +9,7 @@ const AudioPlayer = () => {
   
   useEffect(() => {
     // Create audio element
-    audioRef.current = new Audio('https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3');
+    audioRef.current = new Audio('/hbd.fidhaa/public/aradhike.mp3')
     audioRef.current.loop = true;
     audioRef.current.volume = 0.3;
     
