@@ -50,7 +50,7 @@ const MessageSection = () => {
           
           <div className="relative">
             <motion.img
-              src="/IMG-20250522-WA0011.jpg"
+              src="IMG-20250522-WA0011.jpg"
               alt="Decorative heart"
               className="absolute -top-12 -left-12 w-24 h-24 object-cover rounded-full opacity-80 shadow-lg hidden md:block"
               initial={{ opacity: 0, scale: 0.8 }}
@@ -123,7 +123,7 @@ const MessageSection = () => {
             </motion.div>
             
             <motion.img
-              src="/IMG-20250522-WA0005.jpg"
+              src="IMG-20250522-WA0005.jpg"
               alt="Decorative flowers"
               className="absolute -bottom-12 -right-12 w-24 h-24 object-cover rounded-full opacity-80 shadow-lg hidden md:block"
               initial={{ opacity: 0, scale: 0.8 }}

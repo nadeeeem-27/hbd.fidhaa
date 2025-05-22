@@ -9,12 +9,12 @@ const GallerySection = () => {
   // Sample images - replace with actual images of you and Fidhaa
   const images = [
     {
-      src: "/we.jpg",
+      src: "we.jpg",
       alt: "Couple holding hands",
       caption: "I love you"
     },
     {
-      src: "/IMG-20250522-WA0005.jpg",
+      src: "IMG-20250522-WA0005.jpg",
       alt: "Couple enjoying sunset",
       caption: "Beautiful You"
     },
@@ -24,17 +24,17 @@ const GallerySection = () => {
       caption: "Nta kutty"
     },
     {
-      src: "/IMG-20250522-WA0006.jpg",
+      src: "IMG-20250522-WA0006.jpg",
       alt: "Couple at dinner",
       caption: "Unniyal Beach🌚"
     },
     {
-      src: "/clg.jpg",
+      src: "clg.jpg",
       alt: "Couple walking",
       caption: "College we"
     },
     {
-      src: "/IMG-20250522-WA0010.jpg",
+      src: "IMG-20250522-WA0010.jpg",
       alt: "Couple in nature",
       caption: "Kozhikode beach pova?"
     }
