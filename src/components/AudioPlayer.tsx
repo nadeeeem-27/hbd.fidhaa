@@ -9,7 +9,7 @@ const AudioPlayer = () => {
   
   useEffect(() => {
     // Create audio element
-    audioRef.current = new Audio('/hbd.fidhaa/public/aradhike.mp3')
+    audioRef.current = new Audio('https://nadeeeem-27.github.io/hbd.fidhaa/aradhike.mp3')
     audioRef.current.loop = true;
     audioRef.current.volume = 0.3;
     
